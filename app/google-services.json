@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "182342511756",
+    "firebase_url": "https://quicktrade-fb811.firebaseio.com",
+    "project_id": "quicktrade-fb811",
+    "storage_bucket": "quicktrade-fb811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182342511756:android:00826c4342fe4bfc",
+        "android_client_info": {
+          "package_name": "educacion.trax.quicktrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182342511756-89aq8boookcjs64s6pkq5dh23cq1itc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "educacion.trax.quicktrade",
+            "certificate_hash": "b880714bbc24e15fdd357a83db0cf6e7c7bf6162"
+          }
+        },
+        {
+          "client_id": "182342511756-kp4pj96rggv6461qq90mjqkdqknqrf4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv4jGxSap1RleksZFCmEdQcP_E01cc_jM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182342511756-kp4pj96rggv6461qq90mjqkdqknqrf4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182342511756:android:cada9c88194b69a2",
+        "android_client_info": {
+          "package_name": "educacion.trax.quicktrade2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182342511756-bje5604phopdoj2sa5njatkoasonqa17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "educacion.trax.quicktrade2",
+            "certificate_hash": "b880714bbc24e15fdd357a83db0cf6e7c7bf6162"
+          }
+        },
+        {
+          "client_id": "182342511756-kp4pj96rggv6461qq90mjqkdqknqrf4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv4jGxSap1RleksZFCmEdQcP_E01cc_jM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182342511756-kp4pj96rggv6461qq90mjqkdqknqrf4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

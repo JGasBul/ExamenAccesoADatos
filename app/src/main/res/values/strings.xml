@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuickTrade 2</string>
+    <string name="quicktrade">Quicktrade</string>
+    <string name="email">Email</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="enviar">Enviar</string>
+    <string name="registrar">Registrar</string>
+    <string name="usuario_nuevo">Usuario Nuevo</string>
+    <string name="user_id">User id</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="password">Password</string>
+    <string name="telefono">Telefono</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="direccion">Dirección</string>
+    <string name="a_adir_producto">Añadir Producto</string>
+    <string name="configuracion_de_cuenta">Configuracion de cuenta</string>
+    <string name="eliminar_producto">Eliminar Producto</string>
+    <string name="buscar_productos">Buscar Productos</string>
+    <string name="modificar_producto">Modificar Producto</string>
+
+    <string-array name="categorias">
+        <item>Teconlogía</item>
+        <item>Coches</item>
+        <item>Hogar</item>
+    </string-array>
+</resources>
